@@ -1,5 +1,6 @@
 header{ 
-    background: #BBBBBB
-    
-    ;
+    background: #BBBBBB ;
+}
+nav li{
+    display: inline;
 }
